@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2575-find-the-divisibility-array-of-a-string) |
+| [0303-range-sum-query-immutable](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0303-range-sum-query-immutable) |
 
 ## Two Pointers
 |  |
@@ -45,4 +46,14 @@
 |  |
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0303-range-sum-query-immutable) |
+
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
