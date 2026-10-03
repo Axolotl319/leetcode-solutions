@@ -10,18 +10,21 @@
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2575-find-the-divisibility-array-of-a-string) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [0020-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 
 ## Stack
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [0020-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [0020-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 
 ## Math
 |  |
@@ -59,4 +62,9 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0303-range-sum-query-immutable) |
+
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
