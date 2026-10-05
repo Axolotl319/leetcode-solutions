@@ -45,6 +45,7 @@
 | ------- |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2575-find-the-divisibility-array-of-a-string) |
 | [0303-range-sum-query-immutable](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0303-range-sum-query-immutable) |
+| [0137-single-number-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0137-single-number-ii) |
 
 ## Two Pointers
 |  |
@@ -70,4 +71,9 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
+
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0137-single-number-ii) |
 <!---LeetCode Topics End-->
