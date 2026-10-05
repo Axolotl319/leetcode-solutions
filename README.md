@@ -11,6 +11,7 @@
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [0020-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
 
 ## Stack
 |  |
@@ -18,6 +19,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [0020-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
 
 ## Bracket Sequences
 |  |
@@ -25,6 +27,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [0020-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
 
 ## Math
 |  |
