@@ -13,6 +13,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [0022-generate-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0022-generate-parentheses) |
+| [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
 
 ## Stack
 |  |
@@ -56,6 +57,7 @@
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0026-remove-duplicates-from-sorted-array) |
+| [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
 
 ## Enumeration
 |  |
@@ -97,4 +99,9 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0024-swap-nodes-in-pairs) |
+
+## Greedy
+|  |
+| ------- |
+| [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
 <!---LeetCode Topics End-->
