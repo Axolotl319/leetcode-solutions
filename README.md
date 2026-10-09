@@ -12,6 +12,7 @@
 | [0020-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
+| [0022-generate-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0022-generate-parentheses) |
 
 ## Stack
 |  |
@@ -28,6 +29,7 @@
 | [0020-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
+| [0022-generate-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0022-generate-parentheses) |
 
 ## Math
 |  |
@@ -71,9 +73,15 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0022-generate-parentheses) |
 
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0137-single-number-ii) |
+
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
