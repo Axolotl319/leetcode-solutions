@@ -39,6 +39,7 @@
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2575-find-the-divisibility-array-of-a-string) |
 | [3099-harshad-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3099-harshad-number) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [0390-elimination-game](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0390-elimination-game) |
 
 ## Simulation
 |  |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0024-swap-nodes-in-pairs) |
+| [0390-elimination-game](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0390-elimination-game) |
 
 ## Greedy
 |  |
