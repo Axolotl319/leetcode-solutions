@@ -121,4 +121,9 @@
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+
+## Uncategorized
+|  |
+| ------- |
+| [2880-select-data](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2880-select-data) |
 <!---LeetCode Topics End-->
