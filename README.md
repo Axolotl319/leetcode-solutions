@@ -48,11 +48,13 @@
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2575-find-the-divisibility-array-of-a-string) |
 | [0303-range-sum-query-immutable](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0303-range-sum-query-immutable) |
 | [0137-single-number-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0137-single-number-ii) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0026-remove-duplicates-from-sorted-array) |
 
 ## Two Pointers
 |  |
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0026-remove-duplicates-from-sorted-array) |
 
 ## Enumeration
 |  |
