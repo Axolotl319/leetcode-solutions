@@ -40,6 +40,7 @@
 | [3099-harshad-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3099-harshad-number) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [0390-elimination-game](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0390-elimination-game) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3514-number-of-unique-xor-triplets-ii) |
 
 ## Simulation
 |  |
@@ -55,6 +56,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0026-remove-duplicates-from-sorted-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2778-sum-of-squares-of-special-elements) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3514-number-of-unique-xor-triplets-ii) |
 
 ## Two Pointers
 |  |
@@ -68,6 +70,7 @@
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2778-sum-of-squares-of-special-elements) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3514-number-of-unique-xor-triplets-ii) |
 
 ## Design
 |  |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0137-single-number-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3514-number-of-unique-xor-triplets-ii) |
 
 ## Backtracking
 |  |
