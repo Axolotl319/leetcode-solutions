@@ -41,6 +41,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [0390-elimination-game](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0390-elimination-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3514-number-of-unique-xor-triplets-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
 
 ## Simulation
 |  |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
 
 ## Hash Table
 |  |
