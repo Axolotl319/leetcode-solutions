@@ -45,6 +45,7 @@
 | [0390-elimination-game](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0390-elimination-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3514-number-of-unique-xor-triplets-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
+| [0060-permutation-sequence](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0060-permutation-sequence) |
 
 ## Simulation
 |  |
@@ -114,6 +115,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0024-swap-nodes-in-pairs) |
 | [0390-elimination-game](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0390-elimination-game) |
+| [0060-permutation-sequence](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0060-permutation-sequence) |
 
 ## Greedy
 |  |
