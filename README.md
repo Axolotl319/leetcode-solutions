@@ -95,6 +95,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0118-pascals-triangle) |
+| [0799-champagne-tower](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0799-champagne-tower) |
 
 ## Bit Manipulation
 |  |
