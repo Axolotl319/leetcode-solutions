@@ -58,6 +58,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2778-sum-of-squares-of-special-elements) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3514-number-of-unique-xor-triplets-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 
 ## Two Pointers
 |  |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 
 ## Breadth-First Search
 |  |
@@ -136,4 +138,9 @@
 |  |
 | ------- |
 | [2880-select-data](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2880-select-data) |
+
+## Sorting
+|  |
+| ------- |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 <!---LeetCode Topics End-->
