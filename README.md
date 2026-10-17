@@ -14,6 +14,7 @@
 | [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [0022-generate-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0022-generate-parentheses) |
 | [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 
 ## Stack
 |  |
@@ -22,6 +23,7 @@
 | [0020-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 
 ## Bracket Sequences
 |  |
@@ -31,6 +33,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [0022-generate-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0022-generate-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 
 ## Math
 |  |
@@ -117,6 +120,7 @@
 | ------- |
 | [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 
 ## Hash Table
 |  |
