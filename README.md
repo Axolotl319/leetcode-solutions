@@ -64,6 +64,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3514-number-of-unique-xor-triplets-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [0118-pascals-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0118-pascals-triangle) |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3259-maximum-energy-boost-from-two-drinks) |
 
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@
 | [0022-generate-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0118-pascals-triangle) |
 | [0799-champagne-tower](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0799-champagne-tower) |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3259-maximum-energy-boost-from-two-drinks) |
 
 ## Bit Manipulation
 |  |
