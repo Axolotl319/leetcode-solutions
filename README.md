@@ -24,6 +24,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
 
 ## Bracket Sequences
 |  |
@@ -65,6 +66,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [0118-pascals-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0118-pascals-triangle) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3259-maximum-energy-boost-from-two-drinks) |
+| [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
 
 ## Two Pointers
 |  |
@@ -98,6 +100,7 @@
 | [0118-pascals-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0118-pascals-triangle) |
 | [0799-champagne-tower](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0799-champagne-tower) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3259-maximum-energy-boost-from-two-drinks) |
+| [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
 
 ## Bit Manipulation
 |  |
@@ -154,4 +157,9 @@
 |  |
 | ------- |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
+
+## Monotonic Stack
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
