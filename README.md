@@ -74,6 +74,7 @@
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0026-remove-duplicates-from-sorted-array) |
 | [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
+| [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
 
 ## Enumeration
 |  |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
 
 ## Recursion
 |  |
@@ -137,6 +139,7 @@
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
 
 ## Breadth-First Search
 |  |
@@ -162,4 +165,9 @@
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
+
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
