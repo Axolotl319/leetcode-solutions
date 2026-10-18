@@ -172,4 +172,9 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
+
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
