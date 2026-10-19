@@ -15,6 +15,7 @@
 | [0022-generate-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0022-generate-parentheses) |
 | [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3340-check-balanced-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3340-check-balanced-string) |
 
 ## Stack
 |  |
