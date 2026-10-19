@@ -69,6 +69,7 @@
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3259-maximum-energy-boost-from-two-drinks) |
 | [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0137-single-number-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 
 ## Backtracking
 |  |
