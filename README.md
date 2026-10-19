@@ -68,6 +68,7 @@
 | [0118-pascals-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0118-pascals-triangle) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3259-maximum-energy-boost-from-two-drinks) |
 | [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 
 ## Two Pointers
 |  |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 
 ## Monotonic Stack
 |  |
@@ -177,4 +179,9 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1791-find-center-of-star-graph) |
+
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
