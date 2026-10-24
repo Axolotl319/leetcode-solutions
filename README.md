@@ -72,6 +72,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3644-maximum-k-to-sort-a-permutation) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0026-remove-duplicates-from-sorted-array) |
 | [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
 | [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 
 ## Enumeration
 |  |
@@ -141,6 +143,7 @@
 | [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 
 ## Hash Table
 |  |
@@ -169,6 +172,7 @@
 | ------- |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 
 ## Monotonic Stack
 |  |
@@ -189,4 +193,5 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
