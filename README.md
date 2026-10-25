@@ -79,6 +79,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [0198-house-robber](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0746-min-cost-climbing-stairs) |
+| [0064-minimum-path-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0064-minimum-path-sum) |
 
 ## Two Pointers
 |  |
@@ -122,6 +123,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1137-n-th-tribonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0746-min-cost-climbing-stairs) |
 | [0062-unique-paths](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0064-minimum-path-sum) |
 
 ## Bit Manipulation
 |  |
@@ -219,4 +221,9 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0062-unique-paths) |
+
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
