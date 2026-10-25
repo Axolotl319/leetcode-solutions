@@ -49,6 +49,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
 | [0060-permutation-sequence](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0060-permutation-sequence) |
 | [0479-largest-palindrome-product](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0479-largest-palindrome-product) |
+| [0070-climbing-stairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0070-climbing-stairs) |
 
 ## Simulation
 |  |
@@ -110,6 +111,7 @@
 | [0799-champagne-tower](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0799-champagne-tower) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3259-maximum-energy-boost-from-two-drinks) |
 | [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
+| [0070-climbing-stairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0070-climbing-stairs) |
 
 ## Bit Manipulation
 |  |
@@ -194,4 +196,9 @@
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
