@@ -81,6 +81,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0746-min-cost-climbing-stairs) |
 | [0064-minimum-path-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0064-minimum-path-sum) |
 | [0063-unique-paths-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0120-triangle) |
 
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@
 | [0062-unique-paths](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0064-minimum-path-sum) |
 | [0063-unique-paths-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0120-triangle) |
 
 ## Bit Manipulation
 |  |
