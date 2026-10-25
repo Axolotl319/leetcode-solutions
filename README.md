@@ -52,6 +52,7 @@
 | [0070-climbing-stairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1137-n-th-tribonacci-number) |
+| [0062-unique-paths](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0062-unique-paths) |
 
 ## Simulation
 |  |
@@ -120,6 +121,7 @@
 | [0198-house-robber](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0198-house-robber) |
 | [1137-n-th-tribonacci-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1137-n-th-tribonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0746-min-cost-climbing-stairs) |
+| [0062-unique-paths](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0062-unique-paths) |
 
 ## Bit Manipulation
 |  |
@@ -212,4 +214,9 @@
 | [0070-climbing-stairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1137-n-th-tribonacci-number) |
+
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0062-unique-paths) |
 <!---LeetCode Topics End-->
