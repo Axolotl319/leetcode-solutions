@@ -75,6 +75,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3644-maximum-k-to-sort-a-permutation) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [0198-house-robber](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0198-house-robber) |
 
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
 | [0070-climbing-stairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0509-fibonacci-number) |
+| [0198-house-robber](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0198-house-robber) |
 
 ## Bit Manipulation
 |  |
