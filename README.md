@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0303-range-sum-query-immutable) |
+| [0146-lru-cache](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0146-lru-cache) |
 
 ## Prefix Sum
 |  |
@@ -151,6 +152,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0146-lru-cache) |
 
 ## Recursion
 |  |
@@ -178,6 +180,7 @@
 | [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
+| [0146-lru-cache](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0146-lru-cache) |
 
 ## Breadth-First Search
 |  |
@@ -255,4 +258,9 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
+
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0146-lru-cache) |
 <!---LeetCode Topics End-->
