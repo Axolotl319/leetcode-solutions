@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [3100-water-bottles-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3100-water-bottles-ii) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 
 ## Array
 |  |
@@ -82,6 +83,7 @@
 | [0064-minimum-path-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0064-minimum-path-sum) |
 | [0063-unique-paths-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0120-triangle) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 
 ## Two Pointers
 |  |
@@ -163,6 +165,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 
 ## Hash Table
 |  |
@@ -170,6 +173,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 
 ## Breadth-First Search
 |  |
@@ -192,6 +196,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 
 ## Monotonic Stack
 |  |
@@ -231,4 +236,9 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0064-minimum-path-sum) |
 | [0063-unique-paths-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0063-unique-paths-ii) |
+
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
