@@ -189,6 +189,7 @@
 |  |
 | ------- |
 | [2880-select-data](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2880-select-data) |
+| [3963-create-grid-with-exactly-one-path](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3963-create-grid-with-exactly-one-path) |
 
 ## Sorting
 |  |
