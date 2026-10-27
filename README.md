@@ -54,12 +54,14 @@
 | [0509-fibonacci-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1137-n-th-tribonacci-number) |
 | [0062-unique-paths](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
 
 ## Simulation
 |  |
 | ------- |
 | [3100-water-bottles-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3100-water-bottles-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
 
 ## Array
 |  |
@@ -87,6 +89,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [0994-rotting-oranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0994-rotting-oranges) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
 
 ## Two Pointers
 |  |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
 
 ## Uncategorized
 |  |
@@ -243,6 +247,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
 
 ## Matrix
 |  |
