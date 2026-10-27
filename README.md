@@ -85,6 +85,7 @@
 | [0063-unique-paths-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0120-triangle) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [0994-rotting-oranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0994-rotting-oranges) |
 
 ## Two Pointers
 |  |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [0994-rotting-oranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0994-rotting-oranges) |
 
 ## Number Theory
 |  |
@@ -241,6 +243,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0064-minimum-path-sum) |
 | [0063-unique-paths-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0063-unique-paths-ii) |
+| [0994-rotting-oranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0994-rotting-oranges) |
 
 ## Heap (Priority Queue)
 |  |
