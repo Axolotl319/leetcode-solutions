@@ -16,6 +16,7 @@
 | [1754-largest-merge-of-two-strings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1754-largest-merge-of-two-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3340-check-balanced-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3340-check-balanced-string) |
+| [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 
 ## Stack
 |  |
@@ -166,6 +167,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 
 ## Breadth-First Search
 |  |
@@ -198,6 +201,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 
 ## Monotonic Stack
 |  |
@@ -242,4 +246,10 @@
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
+
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 <!---LeetCode Topics End-->
