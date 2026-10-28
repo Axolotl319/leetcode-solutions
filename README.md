@@ -59,6 +59,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1137-n-th-tribonacci-number) |
 | [0062-unique-paths](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
 
 ## Simulation
 |  |
@@ -96,6 +97,7 @@
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
+| [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
 
 ## Two Pointers
 |  |
@@ -226,6 +228,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
+| [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
 
 ## Monotonic Stack
 |  |
@@ -277,6 +280,7 @@
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
+| [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
 
 ## Counting
 |  |
@@ -308,4 +312,24 @@
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
+
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
+
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
+
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
+
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
