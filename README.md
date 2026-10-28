@@ -17,6 +17,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3340-check-balanced-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3340-check-balanced-string) |
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
+| [0072-edit-distance](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0072-edit-distance) |
 
 ## Stack
 |  |
@@ -138,6 +139,7 @@
 | [0064-minimum-path-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0064-minimum-path-sum) |
 | [0063-unique-paths-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0120-triangle) |
+| [0072-edit-distance](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0072-edit-distance) |
 
 ## Bit Manipulation
 |  |
