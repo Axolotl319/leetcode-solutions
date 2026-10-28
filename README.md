@@ -22,6 +22,7 @@
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 | [2055-plates-between-candles](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2055-plates-between-candles) |
+| [0049-group-anagrams](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0049-group-anagrams) |
 
 ## Stack
 |  |
@@ -100,6 +101,7 @@
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 | [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
 | [2055-plates-between-candles](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2055-plates-between-candles) |
+| [0049-group-anagrams](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0049-group-anagrams) |
 
 ## Two Pointers
 |  |
@@ -205,6 +207,7 @@
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 | [0146-lru-cache](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0146-lru-cache) |
 | [0138-copy-list-with-random-pointer](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0138-copy-list-with-random-pointer) |
+| [0049-group-anagrams](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0049-group-anagrams) |
 
 ## Breadth-First Search
 |  |
@@ -234,6 +237,7 @@
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 | [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
+| [0049-group-anagrams](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0049-group-anagrams) |
 
 ## Monotonic Stack
 |  |
