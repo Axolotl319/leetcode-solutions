@@ -21,6 +21,7 @@
 | [2222-number-of-ways-to-select-buildings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2222-number-of-ways-to-select-buildings) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
+| [2055-plates-between-candles](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2055-plates-between-candles) |
 
 ## Stack
 |  |
@@ -98,6 +99,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 | [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
+| [2055-plates-between-candles](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2055-plates-between-candles) |
 
 ## Two Pointers
 |  |
@@ -130,6 +132,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0303-range-sum-query-immutable) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2222-number-of-ways-to-select-buildings) |
+| [2055-plates-between-candles](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2055-plates-between-candles) |
 
 ## Dynamic Programming
 |  |
@@ -252,6 +255,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
+| [2055-plates-between-candles](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2055-plates-between-candles) |
 
 ## Memoization
 |  |
