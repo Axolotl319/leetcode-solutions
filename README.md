@@ -174,6 +174,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0146-lru-cache) |
+| [0138-copy-list-with-random-pointer](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0138-copy-list-with-random-pointer) |
 
 ## Recursion
 |  |
@@ -203,6 +204,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 | [0146-lru-cache](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0146-lru-cache) |
+| [0138-copy-list-with-random-pointer](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0138-copy-list-with-random-pointer) |
 
 ## Breadth-First Search
 |  |
