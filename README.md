@@ -110,6 +110,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2778-sum-of-squares-of-special-elements) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3514-number-of-unique-xor-triplets-ii) |
 | [0479-largest-palindrome-product](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0479-largest-palindrome-product) |
+| [1291-sequential-digits](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1291-sequential-digits) |
 
 ## Design
 |  |
