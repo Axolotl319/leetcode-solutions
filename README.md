@@ -64,6 +64,7 @@
 | [3100-water-bottles-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3100-water-bottles-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
+| [1603-design-parking-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1603-design-parking-system) |
 
 ## Array
 |  |
@@ -115,6 +116,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0303-range-sum-query-immutable) |
 | [0146-lru-cache](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0146-lru-cache) |
+| [1603-design-parking-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1603-design-parking-system) |
 
 ## Prefix Sum
 |  |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
+| [1603-design-parking-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1603-design-parking-system) |
 
 ## Doubly-Linked List
 |  |
