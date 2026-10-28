@@ -18,6 +18,7 @@
 | [3340-check-balanced-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3340-check-balanced-string) |
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 | [0072-edit-distance](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0072-edit-distance) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2222-number-of-ways-to-select-buildings) |
 
 ## Stack
 |  |
@@ -120,6 +121,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0303-range-sum-query-immutable) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2222-number-of-ways-to-select-buildings) |
 
 ## Dynamic Programming
 |  |
@@ -140,6 +142,7 @@
 | [0063-unique-paths-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0120-triangle) |
 | [0072-edit-distance](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0072-edit-distance) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2222-number-of-ways-to-select-buildings) |
 
 ## Bit Manipulation
 |  |
