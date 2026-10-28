@@ -20,6 +20,7 @@
 | [0072-edit-distance](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0072-edit-distance) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2222-number-of-ways-to-select-buildings) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 
 ## Stack
 |  |
@@ -94,6 +95,7 @@
 | [0994-rotting-oranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0994-rotting-oranges) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
+| [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 
 ## Two Pointers
 |  |
@@ -223,6 +225,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
+| [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 
 ## Monotonic Stack
 |  |
@@ -245,6 +248,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
+| [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 
 ## Memoization
 |  |
@@ -272,6 +276,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
+| [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 
 ## Counting
 |  |
@@ -298,4 +303,9 @@
 |  |
 | ------- |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
+
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
