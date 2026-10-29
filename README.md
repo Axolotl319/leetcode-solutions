@@ -102,6 +102,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
 | [2055-plates-between-candles](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2055-plates-between-candles) |
 | [0049-group-anagrams](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0049-group-anagrams) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2100-find-good-days-to-rob-the-bank) |
 
 ## Two Pointers
 |  |
@@ -135,6 +136,7 @@
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2222-number-of-ways-to-select-buildings) |
 | [2055-plates-between-candles](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2055-plates-between-candles) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2100-find-good-days-to-rob-the-bank) |
 
 ## Dynamic Programming
 |  |
@@ -156,6 +158,7 @@
 | [0120-triangle](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0120-triangle) |
 | [0072-edit-distance](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0072-edit-distance) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2222-number-of-ways-to-select-buildings) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2100-find-good-days-to-rob-the-bank) |
 
 ## Bit Manipulation
 |  |
