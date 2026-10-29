@@ -105,6 +105,7 @@
 | [0049-group-anagrams](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0049-group-anagrams) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2104-sum-of-subarray-ranges) |
+| [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
 
 ## Two Pointers
 |  |
@@ -219,6 +220,7 @@
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [0994-rotting-oranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0994-rotting-oranges) |
+| [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
 
 ## Number Theory
 |  |
@@ -288,6 +290,7 @@
 | [0064-minimum-path-sum](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0064-minimum-path-sum) |
 | [0063-unique-paths-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0994-rotting-oranges) |
+| [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
 
 ## Heap (Priority Queue)
 |  |
@@ -348,4 +351,14 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
+
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
+
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
 <!---LeetCode Topics End-->
