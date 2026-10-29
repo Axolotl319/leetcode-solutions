@@ -33,6 +33,7 @@
 | [0856-score-of-parentheses](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2104-sum-of-subarray-ranges) |
 
 ## Bracket Sequences
 |  |
@@ -103,6 +104,7 @@
 | [2055-plates-between-candles](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2055-plates-between-candles) |
 | [0049-group-anagrams](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0049-group-anagrams) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2100-find-good-days-to-rob-the-bank) |
+| [2104-sum-of-subarray-ranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2104-sum-of-subarray-ranges) |
 
 ## Two Pointers
 |  |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2104-sum-of-subarray-ranges) |
 
 ## Floyd's Cycle Finding Algorithm
 |  |
