@@ -107,6 +107,7 @@
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2104-sum-of-subarray-ranges) |
 | [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0322-coin-change) |
 
 ## Two Pointers
 |  |
@@ -163,6 +164,7 @@
 | [0072-edit-distance](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0072-edit-distance) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2222-number-of-ways-to-select-buildings) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2100-find-good-days-to-rob-the-bank) |
+| [0322-coin-change](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0322-coin-change) |
 
 ## Bit Manipulation
 |  |
@@ -223,6 +225,7 @@
 | [0994-rotting-oranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0994-rotting-oranges) |
 | [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0207-course-schedule) |
+| [0322-coin-change](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0322-coin-change) |
 
 ## Number Theory
 |  |
@@ -382,4 +385,14 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0207-course-schedule) |
+
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0322-coin-change) |
+
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0322-coin-change) |
 <!---LeetCode Topics End-->
