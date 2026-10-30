@@ -23,6 +23,7 @@
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 | [2055-plates-between-candles](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2055-plates-between-candles) |
 | [0049-group-anagrams](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0049-group-anagrams) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
 ## Stack
 |  |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1791-find-center-of-star-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
 ## Binary Search
 |  |
@@ -300,6 +302,7 @@
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2398-maximum-number-of-robots-within-budget) |
 | [1268-search-suggestions-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1268-search-suggestions-system) |
 | [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
 ## Counting
 |  |
@@ -361,4 +364,9 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
+
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
