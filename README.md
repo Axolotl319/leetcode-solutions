@@ -64,6 +64,7 @@
 | [0062-unique-paths](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2221-find-triangular-sum-of-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0973-k-closest-points-to-origin) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0453-minimum-moves-to-equal-array-elements) |
 
 ## Simulation
 |  |
@@ -108,6 +109,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/2104-sum-of-subarray-ranges) |
 | [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0322-coin-change) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0453-minimum-moves-to-equal-array-elements) |
 
 ## Two Pointers
 |  |
