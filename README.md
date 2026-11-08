@@ -110,6 +110,7 @@
 | [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0453-minimum-moves-to-equal-array-elements) |
+| [1267-count-servers-that-communicate](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1267-count-servers-that-communicate) |
 
 ## Two Pointers
 |  |
@@ -228,6 +229,7 @@
 | [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0322-coin-change) |
+| [1267-count-servers-that-communicate](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1267-count-servers-that-communicate) |
 
 ## Number Theory
 |  |
@@ -300,6 +302,7 @@
 | [0063-unique-paths-ii](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0994-rotting-oranges) |
 | [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1267-count-servers-that-communicate) |
 
 ## Heap (Priority Queue)
 |  |
@@ -316,6 +319,7 @@
 | ------- |
 | [0767-reorganize-string](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0767-reorganize-string) |
 | [1603-design-parking-system](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1603-design-parking-system) |
+| [1267-count-servers-that-communicate](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1267-count-servers-that-communicate) |
 
 ## Doubly-Linked List
 |  |
@@ -367,11 +371,13 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0207-course-schedule) |
+| [1267-count-servers-that-communicate](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1267-count-servers-that-communicate) |
 
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Axolotl319/leetcode-solutions/tree/main/Solutions/1267-count-servers-that-communicate) |
 
 ## Shortest Path
 |  |
